@@ -1,0 +1,52 @@
+DEST,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,PASSENGERS,FLIGHTS,SEATS,LOAD_FACTOR_PCT
+ANC,AS,Alaska Airlines Inc.,218368.0,1566.0,258286.0,84.5
+ANC,DL,Delta Air Lines Inc.,59983.0,481.0,73083.0,82.1
+DEN,UA,United Air Lines Inc.,83830.0,572.0,93642.0,89.5
+DEN,AS,Alaska Airlines Inc.,74071.0,491.0,84724.0,87.4
+DEN,WN,Southwest Airlines Co.,56576.0,402.0,65742.0,86.1
+DEN,DL,Delta Air Lines Inc.,33419.0,336.0,43678.0,76.5
+DEN,F9,Frontier Airlines Inc.,19398.0,109.0,21732.0,89.3
+DEN,OO,SkyWest Airlines Inc.,2449.0,35.0,2552.0,96.0
+DFW,AA,American Airlines Inc.,144444.0,851.0,161950.0,89.2
+DFW,AS,Alaska Airlines Inc.,78537.0,513.0,89687.0,87.6
+DFW,DL,Delta Air Lines Inc.,11633.0,116.0,13650.0,85.2
+DFW,F9,Frontier Airlines Inc.,3256.0,16.0,3672.0,88.7
+LAS,AS,Alaska Airlines Inc.,129891.0,870.0,149260.0,87.0
+LAS,DL,Delta Air Lines Inc.,79664.0,582.0,95479.0,83.4
+LAS,WN,Southwest Airlines Co.,39870.0,293.0,48139.0,82.8
+LAS,NK,Spirit Air Lines,29904.0,184.0,35341.0,84.6
+LAS,F9,Frontier Airlines Inc.,19131.0,106.0,20976.0,91.2
+LAS,QX,Horizon Air,999.0,14.0,1064.0,93.9
+LAX,AS,Alaska Airlines Inc.,175165.0,1196.0,204605.0,85.6
+LAX,DL,Delta Air Lines Inc.,97544.0,669.0,117752.0,82.8
+LAX,OO,SkyWest Airlines Inc.,20753.0,347.0,24828.0,83.6
+LAX,UA,United Air Lines Inc.,10565.0,76.0,12268.0,86.1
+LAX,F9,Frontier Airlines Inc.,6215.0,37.0,6930.0,89.7
+LAX,NK,Spirit Air Lines,5095.0,29.0,5698.0,89.4
+LAX,QX,Horizon Air,358.0,5.0,380.0,94.2
+LAX,AA,American Airlines Inc.,209.0,2.0,300.0,69.7
+ORD,AS,Alaska Airlines Inc.,79728.0,525.0,91609.0,87.0
+ORD,UA,United Air Lines Inc.,63010.0,422.0,71505.0,88.1
+ORD,DL,Delta Air Lines Inc.,31374.0,280.0,39151.0,80.1
+ORD,AA,American Airlines Inc.,30884.0,213.0,36660.0,84.2
+ORD,5Y,Atlas Air Inc.,169.0,1.0,189.0,89.4
+PDX,AS,Alaska Airlines Inc.,66397.0,550.0,92529.0,71.8
+PDX,OO,SkyWest Airlines Inc.,48215.0,847.0,61966.0,77.8
+PDX,QX,Horizon Air,42089.0,685.0,52060.0,80.8
+PDX,DL,Delta Air Lines Inc.,21918.0,222.0,31536.0,69.5
+PHX,AS,Alaska Airlines Inc.,144752.0,994.0,172663.0,83.8
+PHX,DL,Delta Air Lines Inc.,76613.0,595.0,94602.0,81.0
+PHX,WN,Southwest Airlines Co.,41524.0,291.0,48717.0,85.2
+PHX,AA,American Airlines Inc.,21605.0,175.0,27978.0,77.2
+PHX,OO,SkyWest Airlines Inc.,12295.0,203.0,14339.0,85.7
+PHX,F9,Frontier Airlines Inc.,8696.0,55.0,10674.0,81.5
+PHX,MQ,Envoy Air,2625.0,38.0,2888.0,90.9
+SAN,AS,Alaska Airlines Inc.,127329.0,860.0,149188.0,85.3
+SAN,DL,Delta Air Lines Inc.,66495.0,569.0,82536.0,80.6
+SAN,OO,SkyWest Airlines Inc.,495.0,7.0,532.0,93.0
+SAN,QX,Horizon Air,205.0,3.0,228.0,89.9
+SFO,AS,Alaska Airlines Inc.,128874.0,921.0,157590.0,81.8
+SFO,UA,United Air Lines Inc.,83834.0,615.0,98851.0,84.8
+SFO,DL,Delta Air Lines Inc.,25278.0,278.0,37978.0,66.6
+SFO,OO,SkyWest Airlines Inc.,22901.0,358.0,26170.0,87.5
+SFO,QX,Horizon Air,557.0,9.0,684.0,81.4

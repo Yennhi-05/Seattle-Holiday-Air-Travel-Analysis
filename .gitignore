@@ -1,0 +1,19 @@
+# Raw BTS source data
+Data/raw/*
+
+# Keep the raw folder in the repository
+!Data/raw/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
