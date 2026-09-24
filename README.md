@@ -173,7 +173,7 @@ The project uses the following tools:
 - **PyArrow** — reading the 2025 DB1C Parquet dataset
 - **Visual Studio Code** — project development environment
 - **Power BI Desktop** — data modeling, interactive visualization, and dashboard development
-- **GitHub** — planned project repository and portfolio presentation
+- **GitHub** — version control, project repository, and portfolio presentation
 
 ## Data Processing Workflow
 
